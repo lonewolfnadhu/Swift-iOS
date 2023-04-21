@@ -6,5 +6,9 @@
         <page name='StringHandling'/>
         <page name='DataTypes'/>
         <page name='RandomisationOptional'/>
+        <page name='Functions'/>
+        <page name='Statements'/>
+        <page name='Dictionaries'/>
+        <page name='1D2DArray'/>
     </pages>
 </playground>
