@@ -10,5 +10,8 @@
         <page name='Statements'/>
         <page name='Dictionaries'/>
         <page name='1D2DArray'/>
+        <page name='StructuresMethodsProperties'/>
+        <page name='Classes'/>
+        <page name='OptionalWays'/>
     </pages>
 </playground>
