@@ -1,4 +1,4 @@
-# Swift [<code><img height="45px" width="45px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/swift.svg"/></code>](https://github.com/lonewolfnadhu/Swift-iOS)
+# Swift [<img height="45px" width="45px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/swift.svg"/>](https://github.com/lonewolfnadhu/Swift-iOS)
 Created by [Nadir Shah](https://github.com/lonewolfnadhu)
 
 The project has facilitated my learning process of the Swift programming language
@@ -41,7 +41,7 @@ The project has facilitated my learning process of the Swift programming languag
 ## Connect with me
 
 
-[<img height="150px" width="150px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/nadir-shah.jpg">](https://github.com/lonewolfnadhu)
+[<img height="150px" width="150px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/nadir-shah.jpg"/>](https://github.com/lonewolfnadhu)
 
 
 [<img height="35px" width="35px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/instagram.svg"/>](https://www.instagram.com/lonewolfnadhu/)
