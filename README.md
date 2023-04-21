@@ -1,4 +1,4 @@
-# Swift-iOS
+# Swift
 The project has facilitated my learning process of the Swift programming language.
 
 ## Swift Deep Drive
