@@ -36,7 +36,7 @@ The project has facilitated my learning process of the Swift programming languag
 
 
 <!-- Connect | START -->
-[<img align="left" height="45px" width="45px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/rocket.gif"/>](https://github.com/lonewolfnadhu)
+[<img align="left" height="45px" width="45px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/rocket.gif"/>](https://github.com/lonewolfnadhu/Swift-iOS)
 
 ## Connect with me
 
