@@ -1,11 +1,11 @@
-# Swift <code><img height="45px" width="45px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/swift.svg"/></code>
+# Swift [<code><img height="45px" width="45px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/swift.svg"/></code>](https://github.com/lonewolfnadhu/Swift-iOS)
 Created by [Nadir Shah](https://github.com/lonewolfnadhu)
 
 The project has facilitated my learning process of the Swift programming language
 
 
 <!-- Swift Deep Drive | START -->
-<img align="left" height="45px" width="45px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/github.gif"/>
+[<img align="left" height="45px" width="45px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/github.gif"/>](https://github.com/lonewolfnadhu/Swift-iOS)
 ## Swift Deep Drive
 > 
 > [01. Print 'Hello World!', usage of 'Comments'](https://github.com/lonewolfnadhu/Swift-iOS/blob/main/Swift-iOS.playground/Pages/MyPlayground.xcplaygroundpage/Contents.swift)
@@ -36,12 +36,12 @@ The project has facilitated my learning process of the Swift programming languag
 
 
 <!-- Connect | START -->
-<img align="left" height="45px" width="45px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/rocket.gif"/>
+[<img align="left" height="45px" width="45px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/rocket.gif"/>](https://github.com/lonewolfnadhu)
 
 ## Connect with me
 
 
-<img height="120px" width="120px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/nadir.png"/>
+[<img height="120px" width="120px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/nadir.png"/>](https://github.com/lonewolfnadhu)
 
 
 [<img height="35px" width="35px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/instagram.svg"/>](https://www.instagram.com/lonewolfnadhu/)
