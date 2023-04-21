@@ -1,4 +1,4 @@
-# Swift [<img height="45px" width="45px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/swift.svg"/>](https://github.com/lonewolfnadhu/Swift-iOS)
+# Swift [<code><img height="45px" width="45px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/swift.svg"/></code>](https://github.com/lonewolfnadhu/Swift-iOS)
 Created by [Nadir Shah](https://github.com/lonewolfnadhu)
 
 The project has facilitated my learning process of the Swift programming language
