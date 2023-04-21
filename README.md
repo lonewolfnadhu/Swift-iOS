@@ -1,7 +1,13 @@
-# Swift
+# Swift [<code><img title="Swift" alt="swift" height="45px" width="45px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/Resources/swift.svg"/></code>](https://github.com/lonewolfnadhu/Swift-iOS)
+
+Created by [Nadir Shah](https://github.com/lonewolfnadhu)
+
 The project has facilitated my learning process of the Swift programming language
 
-## Swift Deep Drive
+
+[<img align="left" title="Swift" alt="swift" height="45px" width="45px" src="https://github.com/lonewolfnadhu/ios/blob/master/resources/connect-me.gif"/>](https://github.com/lonewolfnadhu/ios)
+
+##  Deep Drive
 > 
 > [01. Print 'Hello World!', usage of 'Comments'](https://github.com/lonewolfnadhu/Swift-iOS/blob/main/Swift-iOS.playground/Pages/MyPlayground.xcplaygroundpage/Contents.swift)
 > 
