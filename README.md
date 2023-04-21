@@ -1,13 +1,12 @@
-# Swift [<code><img title="Swift" alt="swift" height="45px" width="45px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/Resources/swift.svg"/></code>](https://github.com/lonewolfnadhu/Swift-iOS)
-
+# Swift [<code><img height="45px" width="45px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/swift.svg"/></code>](https://github.com/lonewolfnadhu/Swift-iOS)
 Created by [Nadir Shah](https://github.com/lonewolfnadhu)
 
 The project has facilitated my learning process of the Swift programming language
 
 
-[<img align="left" title="Swift" alt="swift" height="45px" width="45px" src="https://github.com/lonewolfnadhu/ios/blob/master/resources/connect-me.gif"/>](https://github.com/lonewolfnadhu/ios)
-
-##  Deep Drive
+<!-- Swift Deep Drive | START -->
+[<img align="left" height="45px" width="45px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/github.gif"/>](https://github.com/lonewolfnadhu/Swift-iOS)
+## Swift Deep Drive
 > 
 > [01. Print 'Hello World!', usage of 'Comments'](https://github.com/lonewolfnadhu/Swift-iOS/blob/main/Swift-iOS.playground/Pages/MyPlayground.xcplaygroundpage/Contents.swift)
 > 
@@ -33,3 +32,24 @@ The project has facilitated my learning process of the Swift programming languag
 > 
 > [12. Five different ways to work with 'Optional'](https://github.com/lonewolfnadhu/Swift-iOS/blob/main/Swift-iOS.playground/Pages/OptionalWays.xcplaygroundpage/Contents.swift)
 > 
+<!-- Swift Deep Drive | END -->
+
+
+<!-- Connect | START -->
+[<img align="left" height="45px" width="45px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/rocket.gif"/>](https://github.com/lonewolfnadhu)
+
+## Connect with me
+
+
+[<img height="150px" width="150px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/nadir-shah.jpg">](https://github.com/lonewolfnadhu)
+
+
+[<img height="35px" width="35px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/instagram.svg"/>](https://www.instagram.com/lonewolfnadhu/)
+[<img height="35px" width="35px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/linkedln.svg"/>](https://www.linkedin.com/in/lonewolfnadhu/)
+[<img height="35px" width="35px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/github.svg"/>](https://github.com/lonewolfnadhu)
+
+
+Made with ❤️
+
+Copyright © 2016-2023 [Nadir Shah](https://linktr.ee/lonewolfnadhu)
+<!-- Connect | END -->
