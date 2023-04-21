@@ -41,7 +41,7 @@ The project has facilitated my learning process of the Swift programming languag
 ## Connect with me
 
 
-[<img height="150px" width="150px" src="https://github.com/lonewolfnadhu/lonewolfnadhu/blob/main/assets/nadir-shah.jpg"/>](https://github.com/lonewolfnadhu)
+[<img height="150px" width="150px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/nadir.png"/>](https://github.com/lonewolfnadhu)
 
 
 [<img height="35px" width="35px" src="https://github.com/lonewolfnadhu/Swift-iOS/blob/main/assets/instagram.svg"/>](https://www.instagram.com/lonewolfnadhu/)
