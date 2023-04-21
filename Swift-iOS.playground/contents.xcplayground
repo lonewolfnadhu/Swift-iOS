@@ -3,5 +3,7 @@
     <pages>
         <page name='MyPlayground'/>
         <page name='VariableConstantArray'/>
+        <page name='StringHandling'/>
+        <page name='DataTypes'/>
     </pages>
 </playground>
